@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://elderdavion.github.io/sitemap.xml
+Sitemap: https://hamednasrolahi.github.io/sitemap.xml
